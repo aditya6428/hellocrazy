@@ -1,5 +1,4 @@
 # hello-world-servlet
-HHHHHHHHHHelloWorld Servlet repo example with corresponding Dockerfile!fff
 hdfdfdfdfdellioooo
 DFFFDFDF
 monday 26th august 2019 
